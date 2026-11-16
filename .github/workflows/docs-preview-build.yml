@@ -15,7 +15,7 @@ permissions:
 jobs:
   build:
     # Sandbox tracks develop; production callers pin a reviewed tag or SHA.
-    uses: DiRoots-Limited/DiRoots.Public.Workflows/.github/workflows/docs-preview-build.yml@develop
+    uses: DiRoots-Limited/DiRoots.Public.Workflows/.github/workflows/docs-preview-build.yml@feat/preview-media-reuse
     with:
       site-url: https://diroots-mauro.github.io/DiRoots.Sandbox.Releases
     # No secrets mapping and never secrets: inherit.

@@ -30,3 +30,11 @@ The first setup adds these pages and publishes the sandbox website. Automatic pr
 **Sandbox example:** The documentation is ready for a first review.
 
 Change that sentence in a test pull request to make it easy to recognize the updated page. This is sample content rather than a product release announcement.
+
+## Media reuse test
+
+This section only exists in the PR preview. The green image is new in this PR, so the preview must carry it. The blue image already exists on the live site, so the preview must load it from there.
+
+![New step](assets/images/new-step.png)
+
+<img src="{{ '/assets/images/existing-step.png' | relative_url }}" alt="Existing step, absolute path">
