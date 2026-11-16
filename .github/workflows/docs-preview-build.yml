@@ -17,5 +17,5 @@ jobs:
     # Sandbox tracks develop; production callers pin a reviewed tag or SHA.
     uses: DiRoots-Limited/DiRoots.Public.Workflows/.github/workflows/docs-preview-build.yml@develop
     with:
-      site-url: ${{ vars.DOCS_SITE_URL }}
+      site-url: https://diroots-mauro.github.io/DiRoots.Sandbox.Releases
     # No secrets mapping and never secrets: inherit.
