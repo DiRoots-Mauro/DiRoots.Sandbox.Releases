@@ -63,4 +63,4 @@ This image already exists on the live site (relative path):
 
 The same image with Windows-style separators, as some product manuals use:
 
-<img src="..\..ssets\images\existing-step.png" alt="Existing step, backslash path">
+<img src="..\..\assets\images\existing-step.png" alt="Existing step, backslash path">
