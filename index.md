@@ -17,7 +17,7 @@ This site contains sample documentation. It uses the same Just the Docs theme as
 
 The sandbox lets us change a page, review how it looks and test the shared workflows in [DiRoots.Public.Workflows](https://github.com/DiRoots-Limited/DiRoots.Public.Workflows). It represents the documentation part of a product's `.Releases` repository.
 
-The first setup adds these pages and publishes the sandbox website. Automatic previews of pull requests will be added when the shared workflows are connected.
+The first setup adds these pages and publishes the sandbox website. Automatic previews of pull requests are now connected: this sentence only appears in the PR preview until the pull request is merged.
 
 ## Explore the sample documentation
 
