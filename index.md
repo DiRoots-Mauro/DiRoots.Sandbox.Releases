@@ -11,13 +11,13 @@ permalink: /
 A place to test documentation previews before using them in DiRoots product manuals.
 {: .fs-6 .fw-300 }
 
-This site contains sample documentation. It uses the same Just the Docs theme as the DiStem manual, with a sidebar, page search and links between help pages.
+This site contains sample documentation. It uses the same Just the Docs theme as the DiStem manual, with a sidebar, page search and links between help pages. Used for testing workflows.
 
 ## What this sandbox is for
 
 The sandbox lets us change a page, review how it looks and test the shared workflows in [DiRoots.Public.Workflows](https://github.com/DiRoots-Limited/DiRoots.Public.Workflows). It represents the documentation part of a product's `.Releases` repository.
 
-The first setup adds these pages and publishes the sandbox website. Automatic previews of pull requests will be added when the shared workflows are connected.
+The first setup adds these pages and publishes the sandbox website. Automatic previews of pull requests are now connected: this sentence only appears in the PR preview until the pull request is merged.
 
 ## Explore the sample documentation
 
