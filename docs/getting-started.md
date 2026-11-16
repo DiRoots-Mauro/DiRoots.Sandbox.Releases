@@ -54,3 +54,13 @@ Explain one task in a short paragraph.
 ## Check the result
 
 Use the sidebar to switch pages, try the search box and follow an internal link. The [preview checklist]({{ '/docs/preview-checklist/' | relative_url }}) lists the checks to repeat when automatic previews are enabled.
+
+## Existing screenshot
+
+This image already exists on the live site (relative path):
+
+![Existing step](../../assets/images/existing-step.png)
+
+The same image with Windows-style separators, as some product manuals use:
+
+<img src="..\..ssets\images\existing-step.png" alt="Existing step, backslash path">
