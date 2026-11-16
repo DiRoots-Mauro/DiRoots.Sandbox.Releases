@@ -43,7 +43,7 @@
   },"6": {
     "doc": "Home",
     "title": "DiRoots Documentation Sandbox",
-    "content": "A place to test documentation previews before using them in DiRoots product manuals. This site contains sample documentation. It uses the same Just the Docs theme as the DiStem manual, with a sidebar, page search and links between help pages. ",
+    "content": "A place to test documentation previews before using them in DiRoots product manuals. This site contains sample documentation. It uses the same Just the Docs theme as the DiStem manual, with a sidebar, page search and links between help pages. Used for testing workflows. ",
     "url": "/DiRoots.Sandbox.Releases/previews/pr-1/#diroots-documentation-sandbox",
     
     "relUrl": "/#diroots-documentation-sandbox"
