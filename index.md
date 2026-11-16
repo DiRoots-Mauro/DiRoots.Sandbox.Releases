@@ -11,7 +11,7 @@ permalink: /
 A place to test documentation previews before using them in DiRoots product manuals.
 {: .fs-6 .fw-300 }
 
-This site contains sample documentation. It uses the same Just the Docs theme as the DiStem manual, with a sidebar, page search and links between help pages.
+This site contains sample documentation. It uses the same Just the Docs theme as the DiStem manual, with a sidebar, page search and links between help pages. Used for testing workflows.
 
 ## What this sandbox is for
 
