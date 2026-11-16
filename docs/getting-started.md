@@ -54,3 +54,5 @@ Explain one task in a short paragraph.
 ## Check the result
 
 Use the sidebar to switch pages, try the search box and follow an internal link. The [preview checklist]({{ '/docs/preview-checklist/' | relative_url }}) lists the checks to repeat when automatic previews are enabled.
+
+> Test D: this line comes from a pull request opened from a fork and must never be published as a preview.
