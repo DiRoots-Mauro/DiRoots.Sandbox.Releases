@@ -28,7 +28,7 @@ jobs:
     # immediately. Production callers pin a reviewed tag or commit SHA.
     uses: DiRoots-Limited/DiRoots.Public.Workflows/.github/workflows/docs-preview-publish.yml@develop
     with:
-      site-url: ${{ vars.DOCS_SITE_URL }}
+      site-url: https://diroots-mauro.github.io/DiRoots.Sandbox.Releases
       app-id: ${{ vars.DOCS_PREVIEW_APP_ID }}
     secrets:
       app-private-key: ${{ secrets.DOCS_PREVIEW_APP_PRIVATE_KEY }}
