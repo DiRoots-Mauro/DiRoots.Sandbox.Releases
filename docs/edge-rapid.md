@@ -6,4 +6,4 @@ nav_exclude: true
 
 # Edge rapid
 
-push 1
+push 2
