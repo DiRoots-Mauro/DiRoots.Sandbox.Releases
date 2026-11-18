@@ -3,7 +3,7 @@ name: Docs preview publish
 # Trusted publisher for documentation PR previews. It must live on the default
 # branch: GitHub reads workflow_run and schedule triggers from there. A copy on
 # gh-pages is optional and only makes cleanup run immediately when a PR closes;
-# otherwise the daily reconcile removes previews of closed PRs.
+# otherwise the monthly reconcile removes previews of closed PRs.
 on:
   workflow_run:
     workflows: [Docs preview build]
@@ -12,7 +12,7 @@ on:
     branches: [gh-pages]
     types: [closed]
   schedule:
-    - cron: '17 3 * * *'
+    - cron: '17 3 1 * *'
   workflow_dispatch:
 
 permissions:
